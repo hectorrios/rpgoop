@@ -15,6 +15,6 @@ class DevilWizard: Enemy {
     }
     
     override var type : String {
-        return "Dark Wizard"
+        return "Devil Wizard"
     }
 }
